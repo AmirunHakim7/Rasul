@@ -35,7 +35,7 @@ Tiada konfigurasi tambahan diperlukan.
 
 ## 🖼️ Demo
  
-> [🔗 Lihat Demo di Sini] (https://amirunhakim7.github.io/Rasul/)
+> [🔗 Lihat Demo di Sini](https://amirunhakim7.github.io/Rasul/
 
 ---
 
