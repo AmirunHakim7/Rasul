@@ -34,10 +34,8 @@ Tiada konfigurasi tambahan diperlukan.
 ---
 
 ## 🖼️ Demo
-
-> Anda boleh host di GitHub Pages atau Netlify:
-> 
-> [🔗 Lihat Demo di Sini]
+ 
+> [🔗 Lihat Demo di Sini] (https://amirunhakim7.github.io/Rasul/)
 
 ---
 
